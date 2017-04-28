@@ -13,12 +13,11 @@ Built entirely in Swift, these frameworks are all open source and distributed th
 
 ### SVNBlurredAlertViewController
 A Blurred Overlay View Controller with a circle mask.
-
 [SVNBlurredAlertViewController](https://github.com/sevenapps/SVNBlurredAlertViewController)
 
 ### SVNCamera
-  A modal custom Camera ViewController with a selection animation.
-  [SVNCamera](https://github.com/sevenapps/SVNCamera)
+A modal custom Camera ViewController with a selection animation.
+[SVNCamera](https://github.com/sevenapps/SVNCamera)
 
 ### SVNFormViewController
     A Form ViewController that self validates and animates errors.
