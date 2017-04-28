@@ -9,28 +9,28 @@
 The SVNAppBuilderLibrary is a collection of frameworks intended to enhance and expedite native iOS development.
 Built entirely in Swift, these frameworks are all open source and distributed through Carthage.
 
-### ViewControllers
-**SVNBlurredAlertViewController**
+## ViewControllers
+### SVNBlurredAlertViewController
 
     A Blurred Overlay View Controller with a circle mask.
     [SVNBlurredAlertViewController](https://github.com/sevenapps/SVNBlurredAlertViewController)
 
-**SVNCamera**
+### SVNCamera
 
     A modal custom Camera ViewController with a selection animation.
     [SVNCamera](https://github.com/sevenapps/SVNCamera)
 
-**SVNFormViewController**
+### SVNFormViewController
 
     A Form ViewController that self validates and animates errors.
     [SVNFormViewController](https://github.com/sevenapps/SVNFormViewController)
 
-**SVNMaterialMenuViewController**
+### SVNMaterialMenuViewController
 
     A fullscreen tableViewController with large cells
     [SVNMaterialMenuViewController](https://github.com/sevenapps/SVNMaterialMenuViewController)
 
-**SVNModalViewController**
+### SVNModalViewController
 
     A modal ViewController with an 'X' dismiss icon in the top left corner
     [SVNModalViewController](https://github.com/sevenapps/SVNModalViewController)
