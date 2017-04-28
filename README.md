@@ -1,7 +1,7 @@
  [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 
  <p align="center">
-   <img src="/images/7appsLogo.png" alt="7apps.io"/>
+   <img src="/images/7appsLogo.jpg" alt="7apps.io"/>
  </p>
 
 # SVNAppBuilderLibrary
