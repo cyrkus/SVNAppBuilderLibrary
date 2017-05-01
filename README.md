@@ -36,6 +36,11 @@ A modal ViewController with an 'X' dismiss icon in the top left corner
 
 [SVNModalViewController](https://github.com/sevenapps/SVNModalViewController)
 
+### SVNOnboardingViewController
+A modal image based Onboarding UIPageViewController.
+
+[SVNOnboardingViewController](https://github.com/sevenapps/SVNOnboardingViewController)
+
 ### SVNTextEntryViewController
 A modal ViewController with a UITextView and a submit button.
 
